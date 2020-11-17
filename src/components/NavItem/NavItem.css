@@ -1,0 +1,16 @@
+.navItem {
+    margin: 15px 0;
+    width: 130px;
+    height: 50px;
+    border: none;
+    background: transparent;
+}
+
+.navItem.selected {
+    border-bottom: 3px tomato solid;
+    color: tomato;
+} 
+
+.navItem:focus {
+    outline: none;
+}

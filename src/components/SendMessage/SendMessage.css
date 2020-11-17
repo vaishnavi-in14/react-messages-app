@@ -1,0 +1,32 @@
+.items {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+input {
+    margin-left: 10px;
+}
+
+textarea {
+    vertical-align: text-top;
+    margin-left: 10px;
+}
+
+.items div {
+    margin-bottom: 20px;
+}
+
+.btn {
+    width: 80px;
+    height: 30px;
+    margin-left: 140px;
+    background: tomato;
+    border-radius: 5px;
+}
+
+.sent {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}

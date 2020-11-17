@@ -1,0 +1,19 @@
+.messageDisplay {
+    border: green 2px solid;
+    width: 300px;
+    height: 200px;
+    margin-top: 20px;
+}
+
+.checkboxDelete {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 10px;
+}
+
+.btn {
+    background: tomato;
+    width: 80px;
+    height: 30px;
+    border-radius: 5px;
+}

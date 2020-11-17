@@ -1,0 +1,11 @@
+li {
+    list-style: none;
+    text-align: center;
+    line-height: 2rem;
+    width: 200px;
+    height: 40px;
+}
+
+.selectedTitle {
+    background: green;
+}
